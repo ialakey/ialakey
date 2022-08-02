@@ -15,7 +15,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=FFA518)&nbsp;
-![C#](https://img.shields.io/badge/-C-sharp-05122A?style=flat&logo=C#&logoColor=FFA518)&nbsp;
+![C#](https://img.shields.io/badge/-C-sharp-05122A?style=flat&logo=C&logoColor=FFA518)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-05122A?style=flat&logo=PostgreSql&logoColor=FFA518)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=MySql&logoColor=FFA518)&nbsp;
