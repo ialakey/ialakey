@@ -14,11 +14,13 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=FFA518)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![PostgreSql](https://img.shields.io/badge/-PostgreSql-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![PostgreSql](https://img.shields.io/badge/-PostgreSql-05122A?style=flat&logo=PostgreSql&logoColor=FFA518)&nbsp;
+![MySql](https://img.shields.io/badge/-PostgreSql-05122A?style=flat&logo=MySql&logoColor=FFA518)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity&logoColor=FFA518)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
