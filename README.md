@@ -45,6 +45,6 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="instagram.com/i_alakey"><img src="https://img.shields.io/badge/-@i_alakey-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
