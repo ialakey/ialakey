@@ -47,5 +47,5 @@
 
 <p align="left">
 <a href="instagram.com/i_alakey"><img src="https://img.shields.io/badge/-@i_alakey-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<img alt="Telegram" src="https://github.com/ialakey/ialakey/blob/main/image_2022-08-02_15-40-03.png" align="right"/>
+<img alt="Telegram" src="https://github.com/ialakey/ialakey/blob/main/image_2022-08-02_15-40-03.png" align="left"/>
 </p>
