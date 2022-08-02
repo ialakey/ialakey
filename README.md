@@ -7,8 +7,8 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm graduated from the Irkutsk National Technical University.\
 ✍️ &nbsp;In my free time, I pursue mobile development.\
-📄 &nbsp;Please have a look at my [Java Resume]([https://irkutsk.hh.ru/resume/7a8de993ff085893570039ed1f505362684f39?hhtmFrom=resume_list]) for more details about me. I'm open to feedback and suggestions! \
-👉 &nbsp;Check my works [Google Play]([https://play.google.com/store/apps/developer?id=I_Alakey])
+📄 &nbsp;Please have a look at my [Java Resume](https://irkutsk.hh.ru/resume/7a8de993ff085893570039ed1f505362684f39?hhtmFrom=resume_list) for more details about me. I'm open to feedback and suggestions! \
+👉 &nbsp;Check my works [Google Play](https://play.google.com/store/apps/developer?id=I_Alakey)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
