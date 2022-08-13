@@ -20,7 +20,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-05122A?style=flat&logo=PostgreSql&logoColor=FFA518)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=MySql&logoColor=FFA518)&nbsp;
-![RestApi](https://img.shields.io/badge/-rest-api-05122A?style=flat&logo=rest-api)
+![RestApi](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=rest-api)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![CUBA](https://img.shields.io/badge/-Cuba-05122A?style=flat&logo=cuba-platform)\
