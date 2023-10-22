@@ -10,8 +10,6 @@
 📄 &nbsp;Please have a look at my [Resume](https://www.linkedin.com/in/ilya-alakov-14b979266) for more details about me. I'm open to feedback and suggestions! \
 👉 &nbsp;Check my works [Google Play](https://play.google.com/store/apps/developer?id=I_Alakey)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
