@@ -37,6 +37,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="instagram.com/i_alakey"><img src="https://img.shields.io/badge/-@i_alakey-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/unnamed_junior"><img src="https://img.shields.io/badge/-@i_alakey-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://t.me/i_alakey"><img src="https://img.shields.io/badge/-@i_alakey-E4405F?style=flat&logo=Telegram&logoColor=white"/></a>
 </p>
