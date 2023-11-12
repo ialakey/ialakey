@@ -7,7 +7,7 @@
 💡 &nbsp;Java and Kotlin developer with a focus on utilizing Spring Framework and PostgreSQL. I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm graduated from the Irkutsk National Technical University.\
 ✍️ &nbsp;In my free time, I pursue mobile development.\
-📄 &nbsp;Please have a look at my [Resume](https://www.linkedin.com/in/ilya-alakov-14b979266) for more details about me. I'm open to feedback and suggestions! \
+📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/ilya-alakov-14b979266) and [HH](https://hh.ru/resume/031942feff0c09325e0039ed1f706263593341) for more details about me. I'm open to feedback and suggestions! \
 👉 &nbsp;Check my works [Google Play](https://play.google.com/store/apps/developer?id=I_Alakey)
 
 ### 🛠 &nbsp;Tech Stack
