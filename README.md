@@ -42,7 +42,7 @@
 <details>
 <summary><b>⭐️ My Favorite Projects</b></summary>
 
-<div style="background-color: #f5f5f5; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
+<div style="background-color: ##faee6b; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
   <h3>Mobile App for Serbia</h3>
   <p>Description: <a href="https://play.google.com/store/apps/details?id=com.alakey.serbiaguide">Serbia Guide</a></p>
   <p><a href="https://github.com/ialakey/srbguide">GitHub</a></p>
