@@ -37,12 +37,9 @@
 ### Other:
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity&logoColor=FFA518)
 ![Google](https://img.shields.io/badge/-Google-05122A?style=flat&logo=google)
-</details>
-
-<details>
-<summary><b>🚀 Languages and Tools</b></summary>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ialakey&layout=compact&theme=algolia)
+
 </details>
 
 <details>
