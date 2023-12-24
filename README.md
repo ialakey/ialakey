@@ -33,14 +33,13 @@
    - Description: [Serbia Guide](https://play.google.com/store/apps/details?id=com.alakey.serbiaguide)
    - [GitHub](https://github.com/ialakey/srbguide)
 
-### ⚙️ &nbsp;GitHub Analytics
+### 📊 &nbsp;GitHub Contributions
 
-<p align="center">
-<a href="https://github.com/ialakey">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ialakey&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ialakey&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ialakey&theme=algolia)](https://github.com/ialakey)
+
+### 🚀 &nbsp;Languages and Tools
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ialakey&layout=compact&theme=algolia)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
