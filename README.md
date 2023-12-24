@@ -47,13 +47,15 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-  <a href="https://www.instagram.com/unnamed_junior">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/ilya-alakov-14b979266">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
+  <br/>
   <a href="https://t.me/i_alakey">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/ilya-alakov-14b979266">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  <br/>
+  <a href="https://www.instagram.com/unnamed_junior">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
   </a>
 </p>
