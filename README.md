@@ -1,14 +1,12 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ilya</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Java and Kotlin developer with a focus on utilizing Spring Framework and PostgreSQL. I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm graduated from the Irkutsk National Technical University.\
+🎓 &nbsp;I graduated from Irkutsk National Technical University.\
 ✍️ &nbsp;In my free time, I pursue mobile development.\
 📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/ilya-alakov-14b979266) for more details about me. I'm open to feedback and suggestions! \
-👉 &nbsp;Check my works [Google Play](https://play.google.com/store/apps/developer?id=I_Alakey)
+👉 &nbsp;Check out my work on [Google Play](https://play.google.com/store/apps/developer?id=I_Alakey)
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -24,6 +22,16 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android Studio Code](https://img.shields.io/badge/-Android%20Studio%20Code-05122A?style=flat&logo=android-studio-code&logoColor=007ACC)&nbsp;
 ![Google](https://img.shields.io/badge/-Google-05122A?style=flat&logo=google)
+
+### 🚀 &nbsp;Projects
+
+1. **Telegram Bot**
+   - Description: [Telegram bot](https://t.me/kino_narezo4ka)
+   - GitHub: [url](https://github.com/ialakey/telegrammanager)
+
+2. **Mobile App for Serbia**
+   - Description: [Serbia Guide](https://play.google.com/store/apps/details?id=com.alakey.serbiaguide)
+   - GitHub: [url](https://github.com/ialakey/srbguide)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
