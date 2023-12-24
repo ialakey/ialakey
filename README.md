@@ -25,13 +25,13 @@
 
 ### ⭐️ &nbsp;My Favorite Projects
 
-1. **Telegram Bot**
-   - Description: [Telegram bot](https://t.me/kino_narezo4ka)
-   - [GitHub](https://github.com/ialakey/telegrammanager)
-
-2. **Mobile App for Serbia**
+1. **Mobile App for Serbia**
    - Description: [Serbia Guide](https://play.google.com/store/apps/details?id=com.alakey.serbiaguide)
    - [GitHub](https://github.com/ialakey/srbguide)
+   
+2. **Telegram Bot**
+   - Description: [Telegram bot](https://t.me/kino_narezo4ka)
+   - [GitHub](https://github.com/ialakey/telegrammanager)
   
 3. **Movie App**
    - Description: [MemoDog: Movies](https://play.google.com/store/apps/details?id=com.alakey.memodogmovies)
