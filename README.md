@@ -38,8 +38,8 @@
    - [GitHub](https://github.com/ialakey/memodogmovies)
   
 4. **Notes App**
-- Description: [MemoDog: Notes](https://play.google.com/store/apps/details?id=com.alakey.notesupgrade)
-- [GitHub](https://github.com/ialakey/MemoDogNotes)
+   - Description: [MemoDog: Notes](https://play.google.com/store/apps/details?id=com.alakey.notesupgrade)
+   - [GitHub](https://github.com/ialakey/MemoDogNotes)
 
 ### 🚀 &nbsp;Languages and Tools
 
