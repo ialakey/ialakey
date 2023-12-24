@@ -40,6 +40,12 @@
 </details>
 
 <details>
+<summary><b>🚀 Languages and Tools</b></summary>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ialakey&layout=compact&theme=algolia)
+</details>
+
+<details>
 <summary><b>⭐️ My Favorite Projects</b></summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=srbguide)](https://github.com/ialakey/srbguide)
@@ -50,12 +56,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=MemoDogNotes)](https://github.com/ialakey/MemoDogNotes)
 
-</details>
-
-<details>
-<summary><b>🚀 Languages and Tools</b></summary>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ialakey&layout=compact&theme=algolia)
 </details>
 
 <details>
