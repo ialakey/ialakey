@@ -50,30 +50,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=MemoDogNotes)](https://github.com/ialakey/MemoDogNotes)
 
-<div style="background-color: ##f5f5f5; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
-  <h3>Mobile App for Serbia</h3>
-  <p>Description: <a href="https://play.google.com/store/apps/details?id=com.alakey.serbiaguide">Serbia Guide</a></p>
-  <p><a href="https://github.com/ialakey/srbguide">GitHub</a></p>
-</div>
-
-<div style="background-color: #f5f5f5; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
-  <h3>Telegram Bot</h3>
-  <p>Description: <a href="https://t.me/kino_narezo4ka">Telegram bot</a></p>
-  <p><a href="https://github.com/ialakey/telegrammanager">GitHub</a></p>
-</div>
-
-<div style="background-color: #f5f5f5; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
-  <h3>Movie App</h3>
-  <p>Description: <a href="https://play.google.com/store/apps/details?id=com.alakey.memodogmovies">MemoDog: Movies</a></p>
-  <p><a href="https://github.com/ialakey/memodogmovies">GitHub</a></p>
-</div>
-
-<div style="background-color: #f5f5f5; padding: 10px; border-radius: 5px; margin-bottom: 10px;">
-  <h3>Notes App</h3>
-  <p>Description: <a href="https://play.google.com/store/apps/details?id=com.alakey.notesupgrade">MemoDog: Notes</a></p>
-  <p><a href="https://github.com/ialakey/MemoDogNotes">GitHub</a></p>
-</div>
-
 </details>
 
 <details>
