@@ -32,6 +32,10 @@
 2. **Mobile App for Serbia**
    - Description: [Serbia Guide](https://play.google.com/store/apps/details?id=com.alakey.serbiaguide)
    - [GitHub](https://github.com/ialakey/srbguide)
+  
+3. **Movie App**
+   - Description: [MemoDog: Movies](https://play.google.com/store/apps/details?id=com.alakey.memodogmovies)
+   - [GitHub](https://github.com/ialakey/memodogmovies)
 
 ### 🚀 &nbsp;Languages and Tools
 
