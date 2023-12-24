@@ -47,11 +47,9 @@
 <summary><b>⭐️ My Favorite Projects</b></summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=srbguide)](https://github.com/ialakey/srbguide)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=telegrammanager)](https://github.com/ialakey/telegrammanager)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=memodogmovies)](https://github.com/ialakey/memodogmovies)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=MemoDogNotes)](https://github.com/ialakey/MemoDogNotes)
 
 </details>
