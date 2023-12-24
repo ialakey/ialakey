@@ -36,6 +36,10 @@
 3. **Movie App**
    - Description: [MemoDog: Movies](https://play.google.com/store/apps/details?id=com.alakey.memodogmovies)
    - [GitHub](https://github.com/ialakey/memodogmovies)
+  
+4. **Notes App**
+- Description: [MemoDog: Notes](https://play.google.com/store/apps/details?id=com.alakey.notesupgrade)
+- [GitHub](https://github.com/ialakey/MemoDogNotes)
 
 ### 🚀 &nbsp;Languages and Tools
 
