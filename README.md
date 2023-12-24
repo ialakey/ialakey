@@ -30,21 +30,30 @@
 <details>
 <summary><b>⭐️ My Favorite Projects</b></summary>
 
-1. **Mobile App for Serbia**
-   - Description: [Serbia Guide](https://play.google.com/store/apps/details?id=com.alakey.serbiaguide)
-   - [GitHub](https://github.com/ialakey/srbguide)
-   
-2. **Telegram Bot**
-   - Description: [Telegram bot](https://t.me/kino_narezo4ka)
-   - [GitHub](https://github.com/ialakey/telegrammanager)
-  
-3. **Movie App**
-   - Description: [MemoDog: Movies](https://play.google.com/store/apps/details?id=com.alakey.memodogmovies)
-   - [GitHub](https://github.com/ialakey/memodogmovies)
-  
-4. **Notes App**
-   - Description: [MemoDog: Notes](https://play.google.com/store/apps/details?id=com.alakey.notesupgrade)
-   - [GitHub](https://github.com/ialakey/MemoDogNotes)
+<div>
+  <h3>Mobile App for Serbia</h3>
+  <p>Description: <a href="https://play.google.com/store/apps/details?id=com.alakey.serbiaguide">Serbia Guide</a></p>
+  <p><a href="https://github.com/ialakey/srbguide">GitHub</a></p>
+</div>
+
+<div>
+  <h3>Telegram Bot</h3>
+  <p>Description: <a href="https://t.me/kino_narezo4ka">Telegram bot</a></p>
+  <p><a href="https://github.com/ialakey/telegrammanager">GitHub</a></p>
+</div>
+
+<div>
+  <h3>Movie App</h3>
+  <p>Description: <a href="https://play.google.com/store/apps/details?id=com.alakey.memodogmovies">MemoDog: Movies</a></p>
+  <p><a href="https://github.com/ialakey/memodogmovies">GitHub</a></p>
+</div>
+
+<div>
+  <h3>Notes App</h3>
+  <p>Description: <a href="https://play.google.com/store/apps/details?id=com.alakey.notesupgrade">MemoDog: Notes</a></p>
+  <p><a href="https://github.com/ialakey/MemoDogNotes">GitHub</a></p>
+</div>
+
 </details>
 
 <details>
