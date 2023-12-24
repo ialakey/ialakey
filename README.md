@@ -13,17 +13,26 @@
 <details>
 <summary><b>🛠 Tech Stack</b></summary>
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
-![CUBA platform](https://img.shields.io/badge/-CUBA-platform-05122A?style=flat&logo=cuba-platform)&nbsp;
-![PostgreSql](https://img.shields.io/badge/-PostgreSql-05122A?style=flat&logo=PostgreSql&logoColor=FFA518)&nbsp;
-![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=MySql&logoColor=FFA518)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=FFA518)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=FFA518)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity&logoColor=FFA518)&nbsp;
+### Backend Development:
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=java&logoColor=FFA518)
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=java&logoColor=FFA518)
+![CUBA platform](https://img.shields.io/badge/-CUBA-platform-05122A?style=flat&logo=cuba-platform)
+
+### Database Management:
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=FFA518)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=FFA518)
+
+### Mobile Development:
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=FFA518)
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=FFA518)
+
+### Version Control and Collaboration:
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+
+### Other:
+![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity&logoColor=FFA518)
 ![Google](https://img.shields.io/badge/-Google-05122A?style=flat&logo=google)
 </details>
 
