@@ -10,7 +10,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=FFA518)&nbsp;
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-05122A?style=flat&logo=PostgreSql&logoColor=FFA518)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=MySql&logoColor=FFA518)&nbsp;
@@ -27,11 +27,11 @@
 
 1. **Telegram Bot**
    - Description: [Telegram bot](https://t.me/kino_narezo4ka)
-   - GitHub: [url](https://github.com/ialakey/telegrammanager)
+   - [GitHub](https://github.com/ialakey/telegrammanager)
 
 2. **Mobile App for Serbia**
    - Description: [Serbia Guide](https://play.google.com/store/apps/details?id=com.alakey.serbiaguide)
-   - GitHub: [url](https://github.com/ialakey/srbguide)
+   - [GitHub](https://github.com/ialakey/srbguide)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
