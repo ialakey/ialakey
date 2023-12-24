@@ -23,7 +23,7 @@
 ![Android Studio Code](https://img.shields.io/badge/-Android%20Studio%20Code-05122A?style=flat&logo=android-studio-code&logoColor=007ACC)&nbsp;
 ![Google](https://img.shields.io/badge/-Google-05122A?style=flat&logo=google)
 
-### 🔥 &nbsp;Projects
+### ⭐️ &nbsp;My Favorite Projects
 
 1. **Telegram Bot**
    - Description: [Telegram bot](https://t.me/kino_narezo4ka)
