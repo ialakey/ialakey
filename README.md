@@ -23,7 +23,7 @@
 ![Android Studio Code](https://img.shields.io/badge/-Android%20Studio%20Code-05122A?style=flat&logo=android-studio-code&logoColor=007ACC)&nbsp;
 ![Google](https://img.shields.io/badge/-Google-05122A?style=flat&logo=google)
 
-### 🚀 &nbsp;Projects
+### 🔥 &nbsp;Projects
 
 1. **Telegram Bot**
    - Description: [Telegram bot](https://t.me/kino_narezo4ka)
@@ -33,13 +33,12 @@
    - Description: [Serbia Guide](https://play.google.com/store/apps/details?id=com.alakey.serbiaguide)
    - [GitHub](https://github.com/ialakey/srbguide)
 
-### 📊 &nbsp;GitHub Contributions
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ialakey&theme=algolia)](https://github.com/ialakey)
-
 ### 🚀 &nbsp;Languages and Tools
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ialakey&layout=compact&theme=algolia)
+### 📊 &nbsp;GitHub Contributions
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ialakey&theme=algolia)](https://github.com/ialakey)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
