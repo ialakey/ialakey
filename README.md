@@ -1,6 +1,6 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello, @username</h2>
 
-<details>
+<details open>
 <summary><b>👨🏻‍💻 About Me</b></summary>
   
 💡 Java and Kotlin developer with a focus on utilizing Spring Framework and PostgreSQL. I like to explore new technologies and develop software solutions and quick hacks.<br/>
