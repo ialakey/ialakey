@@ -60,7 +60,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ialakey&theme=algolia)](https://github.com/ialakey)
 </details>
 
-<details>
+<details open>
 <summary><b>🤝🏻 Connect with Me</b></summary>
 
 <p align="left">
