@@ -56,7 +56,7 @@
 </details>
 
 <details>
-<a><h2>Stats ⚡</h2></a>
+<summary><b>Stats ⚡</b></summary>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshrajugalla&layout=compact)](https://github.com/ganeshrajugalla/github-readme-stats)
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganeshrajugalla&show_icons=true=true&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
