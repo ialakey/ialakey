@@ -1,4 +1,4 @@
-<a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there+👋;I'm+I_Alakey+🤝.;I'm+an+Full+Stack+⚡;I+love+building+amazing+apps+👨‍💻.">
+<a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there+👋;I'm+I_Alakey+🤝.;I'm+a+Full+Stack+⚡;I+love+building+amazing+apps+👨‍💻.">
   </a></h2></a>
 
 <details open>
