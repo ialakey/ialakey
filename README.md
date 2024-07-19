@@ -1,4 +1,4 @@
-<a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there+👋;I'm+I_Alakey+🤝.;I'm+a+Full+Stack+⚡;I+love+building+amazing+apps+👨‍💻.">
+<a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there+👋;I'm+I_Alakey+🤝.;I'm+a+Full+Stack+Developer+⚡;I+love+building+amazing+apps+👨‍💻.">
   </a></h2></a>
 
 <details open>
@@ -56,9 +56,14 @@
 </details>
 
 <details>
-<summary><b>📊 GitHub Contributions</b></summary>
+<a><h2>Stats ⚡</h2></a>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshrajugalla&layout=compact)](https://github.com/ganeshrajugalla/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ialakey&theme=algolia)](https://github.com/ialakey)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganeshrajugalla&show_icons=true=true&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ganeshrajugalla&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Roy's streak" /></p>
+  
+  <p align="right">(<a href="#top">back to top</a>)</p>
 </details>
 
 <details open>
