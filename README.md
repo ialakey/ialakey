@@ -16,6 +16,22 @@
 ⚡ Fun fact: **I love Coffee** :coffee: [Buy Me a coffee](https://www.donationalerts.com/r/i_alakey)
 </details>
 
+<details open>
+<summary><b>🤝🏻 Connect with Me</b></summary>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ilya-alakov-14b979266">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/i_alakey">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/unnamed_junior">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+  </a>
+</p>
+</details>
+
 <details>
 <summary><b>🛠 Tech Stack</b></summary>
   
@@ -61,7 +77,7 @@
 <details>
 <summary><b>⚡ Stats</b></summary>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ialakey&show_icons=true&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ialakey&show_icons=true&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats) </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ialakey&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="I_Alakey's streak" />
@@ -77,19 +93,3 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=ialakey&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="I_Alakey's Top Contributed Repo" />
 </p>
-
-<details open>
-<summary><b>🤝🏻 Connect with Me</b></summary>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ilya-alakov-14b979266">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://t.me/i_alakey">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/unnamed_junior">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-  </a>
-</p>
-</details>
