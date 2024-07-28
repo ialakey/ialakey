@@ -86,12 +86,16 @@
 </p>
 </details>
 
-## 🏆 GitHub Trophies
+<details>
+  <summary><b>🏆 GitHub Trophies</b></summary>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ialakey&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="I_Alakey's GitHub Trophies" />
 </p>
+</details>
 
-### 🔝 Top Contributed Repo
+<details>
+  <summary><b>🔝 Top Contributed Repo</b></summary>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=ialakey&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="I_Alakey's Top Contributed Repo" />
 </p>
+</details>
