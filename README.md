@@ -65,15 +65,11 @@
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ialakey&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Roy's streak" /></p>
 </details>
 
-<details>
-<summary><b> 🏆 GitHub Trophies </b></summary>
-  [![](https://github-profile-trophy.vercel.app/?username=ialakey&theme=dark&no-frame=true&no-bg=true&margin-w=4)]
-</details>
+  ## 🏆 GitHub Trophies
+  ![](https://github-profile-trophy.vercel.app/?username=ialakey&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
-<details>  
-<summary><b> 🔝 Top Contributed Repo </b></summary>
-  [![](https://github-contributor-stats.vercel.app/api?username=ialakey&limit=5&theme=dark&combine_all_yearly_contributions=true)]
-</details>
+  ### 🔝 Top Contributed Repo
+  ![](https://github-contributor-stats.vercel.app/api?username=ialakey&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <details open>
 <summary><b>🤝🏻 Connect with Me</b></summary>
