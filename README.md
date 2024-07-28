@@ -59,25 +59,29 @@
 <details>
 <summary><b>⚡ Stats</b></summary>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialakey&layout=compact&theme=algolia" alt="I_Alakey's Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ialakey&show_icons=true&theme=radical&hide=contribs" alt="I_Alakey's streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ialakey&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="I_Alakey's streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ialakey&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="I_Alakey's Top Contributed Repo" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ialakey&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="I_Alakey's GitHub Trophies" />
-</p>
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialakey&layout=compact&theme=algolia" alt="I_Alakey's Most Used Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ialakey&show_icons=true&theme=radical&hide=contribs" alt="I_Alakey's streak" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=ialakey&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="I_Alakey's streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-contributor-stats.vercel.app/api?username=ialakey&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="I_Alakey's Top Contributed Repo" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=ialakey&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="I_Alakey's GitHub Trophies" />
+    </td>
+  </tr>
+</table>
 
 </details>
 
