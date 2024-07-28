@@ -77,7 +77,7 @@
 <details>
 <summary><b>⚡ Stats</b></summary>
 
-<p align="center"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ialakey&show_icons=true&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats) </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ialakey&show_icons=true&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ialakey&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="I_Alakey's streak" />
