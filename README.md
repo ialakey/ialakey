@@ -58,9 +58,6 @@
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity&logoColor=FFA518)
 ![Google](https://img.shields.io/badge/-Google-05122A?style=flat&logo=google)
 
-### Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ialakey&layout=compact&theme=algolia)
-
 </details>
 
 <details>
@@ -83,6 +80,11 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ialakey&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="I_Alakey's streak" />
+</p>
+
+### Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialakey&layout=compact&theme=algolia" alt="I_Alakey's Most Used Languages" />
 </p>
 </details>
 
