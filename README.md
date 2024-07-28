@@ -57,17 +57,6 @@
 </details>
 
 <details>
-<summary><b>⭐️ My Favorite Projects</b></summary>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=srbguide)](https://github.com/ialakey/srbguide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=telegrammanager)](https://github.com/ialakey/telegrammanager)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=converter-libreoffice)](https://github.com/ialakey/converter-libreoffice)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=MemoDogNotes)](https://github.com/ialakey/MemoDogNotes)
-
-</details>
-
-<details>
 <summary><b>⚡ Stats</b></summary>
 
 <p align="center">
@@ -86,11 +75,19 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=ialakey&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="I_Alakey's Top Contributed Repo" />
 </p>
 
-</details>
-
-<details>
-  <summary><b>🏆 GitHub Trophies</b></summary>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ialakey&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="I_Alakey's GitHub Trophies" />
 </p>
+
+</details>
+
+<details>
+<summary><b>⭐️ My Favorite Projects</b></summary>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=srbguide)](https://github.com/ialakey/srbguide)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=telegrammanager)](https://github.com/ialakey/telegrammanager)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=converter-libreoffice)](https://github.com/ialakey/converter-libreoffice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=MemoDogNotes)](https://github.com/ialakey/MemoDogNotes)
+
 </details>
