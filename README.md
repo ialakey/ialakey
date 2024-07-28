@@ -1,5 +1,6 @@
-<a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there+👋;I'm+I_Alakey+🤝.;I'm+a+Full+Stack+Developer+⚡;I+love+building+amazing+apps+👨‍💻.">
-  </a></h2></a>
+<a><h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there+👋;I'm+I_Alakey+🤝.;I'm+a+Full+Stack+Developer+⚡;I+love+building+amazing+apps+👨‍💻."/>
+</h2></a>
 
 <details open>
 <summary><b>👨🏻‍💻 About Me</b></summary>
@@ -12,12 +13,12 @@
 - [Google Play](https://play.google.com/store/apps/dev?id=6926668029014446353)
 - [GitLab](https://gitlab.com/prosoulk2017)
 
-- ⚡ Fun fact **I love Coffee** :coffee: [Buy Me a coffee](https://www.donationalerts.com/r/i_alakey)
+⚡ Fun fact: **I love Coffee** :coffee: [Buy Me a coffee](https://www.donationalerts.com/r/i_alakey)
 </details>
 
 <details>
 <summary><b>🛠 Tech Stack</b></summary>
-
+  
 ### Backend Development:
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=FFA518)
@@ -60,29 +61,33 @@
 <details>
 <summary><b>⚡ Stats</b></summary>
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ialakey&show_icons=true=true&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
- 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ialakey&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Roy's streak" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ialakey&show_icons=true&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ialakey&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="I_Alakey's streak" />
+</p>
 </details>
 
-  ## 🏆 GitHub Trophies
-  ![](https://github-profile-trophy.vercel.app/?username=ialakey&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ialakey&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="I_Alakey's GitHub Trophies" />
+</p>
 
-  ### 🔝 Top Contributed Repo
-  ![](https://github-contributor-stats.vercel.app/api?username=ialakey&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ialakey&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="I_Alakey's Top Contributed Repo" />
+</p>
 
 <details open>
 <summary><b>🤝🏻 Connect with Me</b></summary>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/ilya-alakov-14b979266">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
-  <br/>
   <a href="https://t.me/i_alakey">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white"/>
   </a>
-  <br/>
   <a href="https://www.instagram.com/unnamed_junior">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
   </a>
