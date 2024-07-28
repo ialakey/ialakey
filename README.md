@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there+👋;I'm+I_Alakey+🤝.;I'm+a+Full+Stack+Developer+⚡;I+love+building+amazing+apps+👨‍💻."/>
 </h2></a>
 
-<b>👨🏻‍💻 About Me</b>
+<b>## 👨🏻‍💻 About Me</b>
   
 💡 Java and Kotlin developer with a focus on utilizing Spring Framework and PostgreSQL. I like to explore new technologies and develop software solutions and quick hacks.<br/>
 🎓 I graduated from Irkutsk National Technical University.<br/>
@@ -14,7 +14,7 @@
 
 ⚡ Fun fact: **I love Coffee** :coffee: [Buy Me a coffee](https://www.donationalerts.com/r/i_alakey)
 
-<b>🤝🏻 Connect with Me</b>
+<b>## 🤝🏻 Connect with Me</b>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ilya-alakov-14b979266">
