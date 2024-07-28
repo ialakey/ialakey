@@ -81,18 +81,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialakey&layout=compact&theme=algolia" alt="I_Alakey's Most Used Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ialakey&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="I_Alakey's Top Contributed Repo" />
+</p>
+
 </details>
 
 <details>
   <summary><b>🏆 GitHub Trophies</b></summary>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ialakey&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="I_Alakey's GitHub Trophies" />
-</p>
-</details>
-
-<details>
-  <summary><b>🔝 Top Contributed Repo</b></summary>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ialakey&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="I_Alakey's Top Contributed Repo" />
 </p>
 </details>
