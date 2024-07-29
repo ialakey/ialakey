@@ -129,8 +129,10 @@ Java and Kotlin developer with over three years of experience, specializing in S
 
 <table align="center">
   <tr>
-    <td colspan="2" align="center">
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialakey&layout=compact&theme=algolia" alt="I_Alakey's Most Used Languages" />
+    </td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=ialakey&show_icons=true&theme=radical&hide=contribs" alt="I_Alakey's GitHub Stats" />
     </td>
   </tr>
