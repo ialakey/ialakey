@@ -1,13 +1,14 @@
 <a><h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there+👋;I'm+I_Alakey+🤝.;I'm+a+Full+Stack+Developer+⚡;I+love+building+amazing+apps+👨‍💻."/>
 </h2></a>
-### 👨🏻‍💻 About Me
+
+## 👨🏻‍💻 About Me
   
 ### 💡 Java and Kotlin developer with a focus on utilizing Spring Framework and PostgreSQL. I like to explore new technologies and develop software solutions and quick hacks.<br/>
 ### 🎓 I graduated from Irkutsk National Technical University.<br/>
 ### ✍️ In my free time, I pursue mobile development.<br/>
 
-### 👇 Check out my work on
+## 👇 Check out my work on
 <table align="center">
   <tr>
     <td><a href="https://play.google.com/store/apps/dev?id=6926668029014446353">
@@ -30,7 +31,7 @@
   </tr>
 </table>
 
-### 🤝🏻 Connect with Me
+## 🤝🏻 Connect with Me
 
 <table align="center">
   <tr>
@@ -52,7 +53,7 @@
   </tr>
 </table>
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
   
 <div align="center">
   <table>
@@ -97,7 +98,7 @@
   </table>
 </div>
 
-### ⚡ Stats
+## ⚡ Stats
 
 <table align="center">
   <tr>
@@ -123,7 +124,7 @@
   </tr>
 </table>
 
-### ⭐️ My Favorite Projects
+## ⭐️ My Favorite Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=srbguide)](https://github.com/ialakey/srbguide)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=telegrammanager)](https://github.com/ialakey/telegrammanager)
