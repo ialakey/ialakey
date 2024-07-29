@@ -8,8 +8,7 @@
 🎓 I graduated from Irkutsk National Technical University.<br/>
 ✍️ In my free time, I pursue mobile development.<br/>
 📄 Please have a look at my [LinkedIn](https://www.linkedin.com/in/ilya-alakov-14b979266) for more details about me. I'm open to feedback and suggestions!<br/>
-👉 Check out my work on
-
+👇 Check out my work on
 <table>
   <tr>
     <td><a href="https://play.google.com/store/apps/dev?id=6926668029014446353">
