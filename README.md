@@ -3,10 +3,8 @@
 </h2></a>
 
 ## 👨🏻‍💻 About Me
-  
-### 💡 Java and Kotlin developer with a focus on utilizing Spring Framework and PostgreSQL. I like to explore new technologies and develop software solutions and quick hacks.<br/>
-### 🎓 I graduated from Irkutsk National Technical University.<br/>
-### ✍️ In my free time, I pursue mobile development.<br/>
+
+Java and Kotlin developer with over three years of experience, specializing in Spring Framework and PostgreSQL. Adept at microservices, multithreading, algorithms, and database management. Passionate about mobile development with Flutter and writing on software development topics. Graduated from Irkutsk National Technical University.<br/>
 
 ## 👇 Check out my work on
 <table align="center">
@@ -54,7 +52,7 @@
 </table>
 
 ## 🛠 Tech Stack
-  
+
 <div align="center">
   <table>
     <tr>
@@ -63,7 +61,7 @@
         <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518" alt="Java"/>
         <img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=FFA518" alt="Kotlin"/>
         <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=FFA518" alt="Spring"/>
-        <img src="https://img.shields.io/badge/-CUBA-platform-05122A?style=flat&logo=cuba-platform" alt="CUBA platform"/>
+        <img src="https://img.shields.io/badge/-CUBA_platform-05122A?style=flat&logo=cuba-platform" alt="CUBA platform"/>
       </td>
     </tr>
     <tr>
@@ -84,8 +82,38 @@
       <td><strong>Version Control and Collaboration</strong></td>
       <td>
         <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"/>
-        <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white" alt="GitHub"/>
         <img src="https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab" alt="GitLab"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Frontend Development</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/>
+        <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/>
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>DevOps and CI/CD</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Cloud Platforms</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
+        <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+        <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Testing Frameworks</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=java&logoColor=white" alt="JUnit"/>
       </td>
     </tr>
     <tr>
@@ -108,10 +136,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ialakey&show_icons=true&theme=radical&hide=contribs" alt="I_Alakey's streak" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ialakey&show_icons=true&theme=radical&hide=contribs" alt="I_Alakey's GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=ialakey&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="I_Alakey's streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=ialakey&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="I_Alakey's Streak" />
     </td>
   </tr>
   <tr>
