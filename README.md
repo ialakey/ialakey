@@ -139,12 +139,12 @@ Java and Kotlin developer with over three years of experience, specializing in S
       <img src="https://github-contributor-stats.vercel.app/api?username=ialakey&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="I_Alakey's Top Contributed Repo" />
     </td>
     <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=ialakey&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="I_Alakey's GitHub Trophies" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=ialakey&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="I_Alakey's Streak" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=ialakey&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="I_Alakey's Streak" />
+      <img src="https://github-profile-trophy.vercel.app/?username=ialakey&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="I_Alakey's GitHub Trophies" />
     </td>
   </tr>
 </table>
