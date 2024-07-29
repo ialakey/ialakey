@@ -106,7 +106,6 @@ Java and Kotlin developer with over three years of experience, specializing in S
       <td><strong>Cloud Platforms</strong></td>
       <td>
         <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=FFA518" alt="AWS"/>
-        <img src="https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure&logoColor=FFA518" alt="Azure"/>
         <img src="https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud&logoColor=FFA518" alt="Google Cloud"/>
       </td>
     </tr>
