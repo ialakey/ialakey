@@ -4,22 +4,11 @@
 
 ### 👨🏻‍💻 About Me
   
-💡 Java and Kotlin developer with a focus on utilizing Spring Framework and PostgreSQL. I like to explore new technologies and develop software solutions and quick hacks.<br/>
-🎓 I graduated from Irkutsk National Technical University.<br/>
-✍️ In my free time, I pursue mobile development.<br/>
-📄 Please have a look at my
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/ilya-alakov-14b979266">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-    </td>
-  </tr>
-</table>
-for more details about me. I'm open to feedback and suggestions!
+#### 💡 Java and Kotlin developer with a focus on utilizing Spring Framework and PostgreSQL. I like to explore new technologies and develop software solutions and quick hacks.<br/>
+#### 🎓 I graduated from Irkutsk National Technical University.<br/>
+#### ✍️ In my free time, I pursue mobile development.<br/>
 
-👇 Check out my work on
+#### 👇 Check out my work on
 <table align="center">
   <tr>
     <td><a href="https://play.google.com/store/apps/dev?id=6926668029014446353">
@@ -31,7 +20,7 @@ for more details about me. I'm open to feedback and suggestions!
   </tr>
 </table>
 
-⚡ Fun fact: **I love Coffee** :coffee:
+#### ⚡ Fun fact: **I love Coffee** :coffee:
 <table align="center">
   <tr>
     <td>
