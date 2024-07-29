@@ -1,7 +1,7 @@
 <a><h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there+👋;I'm+I_Alakey+🤝.;I'm+a+Full+Stack+Developer+⚡;I+love+building+amazing+apps+👨‍💻."/>
 </h2></a>
-## 👨🏻‍💻 About Me
+### 👨🏻‍💻 About Me
   
 ### 💡 Java and Kotlin developer with a focus on utilizing Spring Framework and PostgreSQL. I like to explore new technologies and develop software solutions and quick hacks.<br/>
 ### 🎓 I graduated from Irkutsk National Technical University.<br/>
