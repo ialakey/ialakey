@@ -1,14 +1,13 @@
 <a><h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there+👋;I'm+I_Alakey+🤝.;I'm+a+Full+Stack+Developer+⚡;I+love+building+amazing+apps+👨‍💻."/>
 </h2></a>
-
-### 👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me
   
-#### 💡 Java and Kotlin developer with a focus on utilizing Spring Framework and PostgreSQL. I like to explore new technologies and develop software solutions and quick hacks.<br/>
-#### 🎓 I graduated from Irkutsk National Technical University.<br/>
-#### ✍️ In my free time, I pursue mobile development.<br/>
+### 💡 Java and Kotlin developer with a focus on utilizing Spring Framework and PostgreSQL. I like to explore new technologies and develop software solutions and quick hacks.<br/>
+### 🎓 I graduated from Irkutsk National Technical University.<br/>
+### ✍️ In my free time, I pursue mobile development.<br/>
 
-#### 👇 Check out my work on
+### 👇 Check out my work on
 <table align="center">
   <tr>
     <td><a href="https://play.google.com/store/apps/dev?id=6926668029014446353">
@@ -20,7 +19,7 @@
   </tr>
 </table>
 
-#### ⚡ Fun fact: **I love Coffee** :coffee:
+### ⚡ Fun fact: **I love Coffee** :coffee:
 <table align="center">
   <tr>
     <td>
