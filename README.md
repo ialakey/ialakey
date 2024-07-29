@@ -30,12 +30,48 @@
 
 ### 🛠 Tech Stack
   
-| **Backend Development**      | ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518) ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=FFA518) ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=FFA518) ![CUBA platform](https://img.shields.io/badge/-CUBA-platform-05122A?style=flat&logo=cuba-platform) |
-|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Mobile Development**       | ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=FFA518) ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=FFA518)                                                                                                                                              |
-| **Database Management**      | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=FFA518) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=FFA518)                                                                                                                          |
-| **Version Control and Collaboration** | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)                                                                                                                                           |
-| **Other**                   | ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity&logoColor=FFA518) ![Google](https://img.shields.io/badge/-Google-05122A?style=flat&logo=google)                                                                                                                                                                       |
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>Backend Development</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518" alt="Java"/>
+        <img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=FFA518" alt="Kotlin"/>
+        <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=FFA518" alt="Spring"/>
+        <img src="https://img.shields.io/badge/-CUBA-platform-05122A?style=flat&logo=cuba-platform" alt="CUBA platform"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Mobile Development</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=FFA518" alt="Dart"/>
+        <img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=FFA518" alt="Flutter"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Database Management</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=FFA518" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=FFA518" alt="MySQL"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Version Control and Collaboration</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"/>
+        <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab" alt="GitLab"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Other</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity&logoColor=FFA518" alt="Unity"/>
+        <img src="https://img.shields.io/badge/-Google-05122A?style=flat&logo=google" alt="Google"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### ⚡ Stats
 
