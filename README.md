@@ -8,9 +8,18 @@
 🎓 I graduated from Irkutsk National Technical University.<br/>
 ✍️ In my free time, I pursue mobile development.<br/>
 📄 Please have a look at my [LinkedIn](https://www.linkedin.com/in/ilya-alakov-14b979266) for more details about me. I'm open to feedback and suggestions!<br/>
-👉 Check out my work on:
-- [Google Play](https://play.google.com/store/apps/dev?id=6926668029014446353)
-- [GitLab](https://gitlab.com/prosoulk2017)
+👉 Check out my work on
+
+<table>
+  <tr>
+    <td><a href="https://play.google.com/store/apps/dev?id=6926668029014446353">
+      <img src="https://img.shields.io/badge/Google_Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play">
+    </a></td>
+    <td><a href="https://gitlab.com/prosoulk2017">
+      <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+    </a></td>
+  </tr>
+</table>
 
 ⚡ Fun fact: **I love Coffee** :coffee: [Buy Me a coffee](https://www.donationalerts.com/r/i_alakey)
 
