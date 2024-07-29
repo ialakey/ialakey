@@ -28,8 +28,7 @@
   </a>
 </p>
 
-<details>
-<summary><b>🛠 Tech Stack</b></summary>
+### 🛠 Tech Stack
   
 | **Backend Development**      | ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518) ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=FFA518) ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=FFA518) ![CUBA platform](https://img.shields.io/badge/-CUBA-platform-05122A?style=flat&logo=cuba-platform) |
 |------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -38,10 +37,7 @@
 | **Version Control and Collaboration** | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)                                                                                                                                           |
 | **Other**                   | ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity&logoColor=FFA518) ![Google](https://img.shields.io/badge/-Google-05122A?style=flat&logo=google)                                                                                                                                                                       |
 
-</details>
-
-<details>
-<summary><b>⚡ Stats</b></summary>
+### ⚡ Stats
 
 <table align="center">
   <tr>
@@ -67,15 +63,10 @@
   </tr>
 </table>
 
-</details>
-
-<details>
-<summary><b>⭐️ My Favorite Projects</b></summary>
+### ⭐️ My Favorite Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=srbguide)](https://github.com/ialakey/srbguide)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=telegrammanager)](https://github.com/ialakey/telegrammanager)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=converter-libreoffice)](https://github.com/ialakey/converter-libreoffice)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=MemoDogNotes)](https://github.com/ialakey/MemoDogNotes)
-
-</details>
