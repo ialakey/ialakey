@@ -20,7 +20,16 @@
   </tr>
 </table>
 
-⚡ Fun fact: **I love Coffee** :coffee: [Buy Me a coffee](https://www.donationalerts.com/r/i_alakey)
+⚡ Fun fact: **I love Coffee** :coffee:
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.donationalerts.com/r/i_alakey">
+        <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FCAF50?style=for-the-badge&logo=coffe&logoColor=white" alt="Buy Me a Coffee"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 🤝🏻 Connect with Me
 
