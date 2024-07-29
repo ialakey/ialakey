@@ -24,17 +24,25 @@
 
 ### 🤝🏻 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ilya-alakov-14b979266">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://t.me/i_alakey">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/unnamed_junior">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/ilya-alakov-14b979266">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://t.me/i_alakey">
+        <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/unnamed_junior">
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 🛠 Tech Stack
   
