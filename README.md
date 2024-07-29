@@ -61,7 +61,7 @@ Java and Kotlin developer with over three years of experience, specializing in S
         <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518" alt="Java"/>
         <img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=FFA518" alt="Kotlin"/>
         <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=FFA518" alt="Spring"/>
-        <img src="https://img.shields.io/badge/-CUBA_platform-05122A?style=flat&logo=cuba-platform" alt="CUBA platform"/>
+        <img src="https://img.shields.io/badge/-CUBA_platform-05122A?style=flat&logo=cuba-platform&logoColor=FFA518" alt="CUBA platform"/>
       </td>
     </tr>
     <tr>
@@ -69,6 +69,22 @@ Java and Kotlin developer with over three years of experience, specializing in S
       <td>
         <img src="https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=FFA518" alt="Dart"/>
         <img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=FFA518" alt="Flutter"/>
+      </td>
+    </tr>
+        <tr>
+      <td><strong>Frontend Development</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5&logoColor=FFA518" alt="HTML"/>
+        <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=FFA518" alt="CSS"/>
+        <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=FFA518" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=FFA518" alt="React"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>DevOps and CI/CD</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=FFA518" alt="Docker"/>
+        <img src="https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes&logoColor=FFA518" alt="Kubernetes"/>
       </td>
     </tr>
     <tr>
@@ -81,46 +97,30 @@ Java and Kotlin developer with over three years of experience, specializing in S
     <tr>
       <td><strong>Version Control and Collaboration</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git"/>
-        <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-        <img src="https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab" alt="GitLab"/>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Frontend Development</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/>
-        <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/>
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>DevOps and CI/CD</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-        <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+        <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=FFA518" alt="Git"/>
+        <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=FFA518" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab&logoColor=FFA518" alt="GitLab"/>
       </td>
     </tr>
     <tr>
       <td><strong>Cloud Platforms</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
-        <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-        <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+        <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=FFA518" alt="AWS"/>
+        <img src="https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure&logoColor=FFA518" alt="Azure"/>
+        <img src="https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud&logoColor=FFA518" alt="Google Cloud"/>
       </td>
     </tr>
     <tr>
       <td><strong>Testing Frameworks</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=java&logoColor=white" alt="JUnit"/>
+        <img src="https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=java&logoColor=FFA518" alt="JUnit"/>
       </td>
     </tr>
     <tr>
       <td><strong>Other</strong></td>
       <td>
         <img src="https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity&logoColor=FFA518" alt="Unity"/>
-        <img src="https://img.shields.io/badge/-Google-05122A?style=flat&logo=google" alt="Google"/>
+        <img src="https://img.shields.io/badge/-Google-05122A?style=flat&logo=google&logoColor=FFA518" alt="Google"/>
       </td>
     </tr>
   </table>
