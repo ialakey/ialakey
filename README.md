@@ -12,20 +12,12 @@ Java and Kotlin developer with over three years of experience, specializing in S
     <td><a href="https://play.google.com/store/apps/dev?id=6926668029014446353">
       <img src="https://img.shields.io/badge/Google_Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play">
     </a></td>
+      <td><a href="https://store.steampowered.com/app/3155690/Drift_Desert_Race">
+      <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+    </a></td>
     <td><a href="https://gitlab.com/prosoulk2017">
       <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
     </a></td>
-  </tr>
-</table>
-
-### ⚡ Fun fact: **I love Coffee** :coffee:
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://www.donationalerts.com/r/i_alakey">
-        <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FCAF50?style=for-the-badge&logo=coffe&logoColor=white" alt="Buy Me a Coffee"/>
-      </a>
-    </td>
   </tr>
 </table>
 
@@ -41,11 +33,6 @@ Java and Kotlin developer with over three years of experience, specializing in S
     <td>
       <a href="https://t.me/i_alakey">
         <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.instagram.com/unnamed_junior">
-        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
       </a>
     </td>
   </tr>
