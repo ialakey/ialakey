@@ -144,4 +144,4 @@ Java and Kotlin developer with over three years of experience, specializing in S
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=telegrammanager)](https://github.com/ialakey/telegrammanager)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=converter-libreoffice)](https://github.com/ialakey/converter-libreoffice)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=MemoDogNotes)](https://github.com/ialakey/MemoDogNotes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=med-core)](https://github.com/ialakey/med-core)
