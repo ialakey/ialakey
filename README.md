@@ -4,7 +4,7 @@
 
 ## 👨🏻‍💻 About Me
 
-Java and Kotlin developer with over three years of experience, specializing in Spring Framework and PostgreSQL. Adept at microservices, multithreading, algorithms, and database management. Passionate about mobile development with Flutter and writing on software development topics. Graduated from Irkutsk National Technical University.<br/>
+Java and Kotlin developer with over five  years of experience, specializing in Spring Framework and PostgreSQL. Adept at microservices, multithreading, algorithms, and database management. Passionate about mobile development with Flutter and writing on software development topics. Graduated from Irkutsk National Technical University.<br/>
 
 ## 👇 Check out my work on
 <table align="center">
