@@ -38,7 +38,7 @@ I am passionate about mobile development with **Flutter** and enjoy writing abou
 <table align="center">
   <tr>
     <td>
-      <a href="https://www.linkedin.com/in/ilya-alakov-14b979266">
+      <a href="https://www.linkedin.com/in/ilia-alakov">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
     </td>
