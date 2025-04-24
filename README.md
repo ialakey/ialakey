@@ -161,43 +161,6 @@ I am passionate about mobile development with **Flutter** and enjoy writing abou
 
 ---
 
-## 📊 Additional Stats
-
-### Top Repositories
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/ialakey/discordbot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=discordbot" alt="discordbot" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ialakey/linguome-flutter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=linguome-flutter" alt="linguome-flutter" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/ialakey/driftdesertrace">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=driftdesertrace" alt="driftdesertrace" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ialakey/srbguide">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=srbguide" alt="srbguide" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <a href="https://github.com/ialakey/telegrammanager">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=telegrammanager" alt="telegrammanager" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 ## ⭐️ My Favorite Projects
 
