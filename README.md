@@ -140,4 +140,8 @@ Java and Kotlin developer with over six years of experience, specializing in Spr
 
 ## ⭐️ My Favorite Projects
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=discordbot)](https://github.com/ialakey/discordbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=linguome-flutter)](https://github.com/ialakey/linguome-flutter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=driftdesertrace)](https://github.com/ialakey/driftdesertrace)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=srbguide)](https://github.com/ialakey/srbguide)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=telegrammanager)](https://github.com/ialakey/telegrammanager)
