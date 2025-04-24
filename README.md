@@ -2,19 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there+👋;I'm+I_Alakey+🤝.;I'm+a+Full+Stack+Developer+⚡;I+love+building+amazing+apps+👨‍💻."/>
 </h2></a>
 
-# 👨🏻‍💻 About Me
-
-Java and Kotlin developer with over six years of experience, specializing in Spring Framework and PostgreSQL. Adept at:
-
-- Microservices
-- Multithreading
-- Algorithms
-- Database Management
-
-I am passionate about mobile development with **Flutter** and enjoy writing about software development. I graduated from **Irkutsk National Technical University**.
-
----
-
 ## 👇 Check out my work on
 
 <table align="center">
