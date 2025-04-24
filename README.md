@@ -152,9 +152,52 @@ I am passionate about mobile development with **Flutter** and enjoy writing abou
       <img src="https://github-profile-trophy.vercel.app/?username=ialakey&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="I_Alakey's GitHub Trophies" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://komarev.com/ghpvc/?username=ialakey&label=Profile%20views&color=brightgreen" alt="GitHub profile views" />
+    </td>
+  </tr>
 </table>
 
 ---
+
+## 📊 Additional Stats
+
+### Top Repositories
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ialakey/discordbot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=discordbot" alt="discordbot" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ialakey/linguome-flutter">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=linguome-flutter" alt="linguome-flutter" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ialakey/driftdesertrace">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=driftdesertrace" alt="driftdesertrace" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ialakey/srbguide">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=srbguide" alt="srbguide" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/ialakey/telegrammanager">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=telegrammanager" alt="telegrammanager" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## ⭐️ My Favorite Projects
 
