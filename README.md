@@ -158,11 +158,6 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=discordbot" alt="discordbot" />
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/ialakey/linguome-flutter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=linguome-flutter" alt="linguome-flutter" />
-      </a>
-    </td>
   </tr>
   <tr>
     <td align="center">
