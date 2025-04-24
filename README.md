@@ -15,13 +15,6 @@ I am passionate about mobile development with **Flutter** and enjoy writing abou
 
 ---
 
-## 👨🏻‍💻 Education
-
-- **Irkutsk National Technical University**  
-  *Bachelor's degree in Computer Science* (Graduated: 20XX)
-
----
-
 ## 👇 Check out my work on
 
 <table align="center">
@@ -165,8 +158,37 @@ I am passionate about mobile development with **Flutter** and enjoy writing abou
 
 ## ⭐️ My Favorite Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=discordbot)](https://github.com/ialakey/discordbot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=linguome-flutter)](https://github.com/ialakey/linguome-flutter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=driftdesertrace)](https://github.com/ialakey/driftdesertrace)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=srbguide)](https://github.com/ialakey/srbguide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=telegrammanager)](https://github.com/ialakey/telegrammanager)
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/ialakey/discordbot">
+        ![Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=discordbot)
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ialakey/linguome-flutter">
+        ![Linguome Flutter](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=linguome-flutter)
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ialakey/driftdesertrace">
+        ![Drift Desert Race](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=driftdesertrace)
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ialakey/srbguide">
+        ![SRB Guide](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=srbguide)
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/ialakey/telegrammanager">
+        ![Telegram Manager](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=telegrammanager)
+      </a>
+    </td>
+  </tr>
+</table>
+
