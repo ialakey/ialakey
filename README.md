@@ -160,35 +160,34 @@ I am passionate about mobile development with **Flutter** and enjoy writing abou
 
 <table align="center">
   <tr>
-    <td>
+    <td align="center">
       <a href="https://github.com/ialakey/discordbot">
-        ![Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=discordbot)
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=discordbot" alt="discordbot" />
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://github.com/ialakey/linguome-flutter">
-        ![Linguome Flutter](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=linguome-flutter)
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=linguome-flutter" alt="linguome-flutter" />
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <a href="https://github.com/ialakey/driftdesertrace">
-        ![Drift Desert Race](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=driftdesertrace)
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=driftdesertrace" alt="driftdesertrace" />
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://github.com/ialakey/srbguide">
-        ![SRB Guide](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=srbguide)
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=srbguide" alt="srbguide" />
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/ialakey/telegrammanager">
-        ![Telegram Manager](https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=telegrammanager)
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=telegrammanager" alt="telegrammanager" />
       </a>
     </td>
   </tr>
 </table>
-
