@@ -110,6 +110,11 @@
         <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
       </a>
     </td>
+    <td>
+      <a href="https://habr.com/ru/users/i_alakey/">
+        <img src="https://img.shields.io/badge/-Habr-65A3BE?style=for-the-badge&logo=Habr&logoColor=white" alt="Habr"/>
+      </a>
+    </td>
   </tr>
 </table>
 
