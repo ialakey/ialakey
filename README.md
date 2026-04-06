@@ -1,5 +1,5 @@
 <h1 align="center">Ilia Alakov</h1>
-<h3 align="center">Senior Backend / Platform Engineer</h3>
+<h3 align="center">Senior Backend Engineer</h3>
 
 <p align="center">
 Building high-load systems • Data-intensive pipelines • End-to-end ownership
@@ -98,12 +98,57 @@ REST, gRPC
 
 ---
 
-## 📌 Selected Projects
+## ⭐️ My Favorite Projects
 
-- 🔗 [Discord Bot Platform](https://github.com/ialakey/discordbot)
-- 🔗 [Telegram Auth (WebApp)](https://github.com/ialakey/telegram-auth-test-task)
-- 🔗 [PioneerPicsel (Fintech-like system)](https://github.com/ialakey/pioneerpicsel)
-- 🔗 [BookManager (CRUD + UI + API)](https://github.com/ialakey/BookManager)
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ialakey/discordbot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=discordbot" alt="discordbot" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ialakey/linguome-flutter">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=linguome-flutter" alt="linguome-flutter" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ialakey/driftdesertrace">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=driftdesertrace" alt="driftdesertrace" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ialakey/srbguide">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=srbguide" alt="srbguide" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/ialakey/telegrammanager">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ialakey&repo=telegrammanager" alt="telegrammanager" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 👇 Check out my work on
+
+<table align="center">
+  <tr>
+    <td><a href="https://play.google.com/store/apps/dev?id=6926668029014446353">
+      <img src="https://img.shields.io/badge/Google_Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play">
+    </a></td>
+    <td><a href="https://store.steampowered.com/app/3155690/Drift_Desert_Race">
+      <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+    </a></td>
+    <td><a href="https://gitlab.com/prosoulk2017">
+      <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+    </a></td>
+  </tr>
+</table>
 
 ---
 
