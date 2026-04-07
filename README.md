@@ -27,56 +27,6 @@
 
 ---
 
-## About Me
-
-7+ years building production systems — from enterprise platforms to consumer products with real load. I focus on backend architecture, data pipelines, and performance. I care about business outcomes, not just clean code.
-
-- 📍 Serbia (Novi Sad / Belgrade)
-- ⚙️ Specialization: high-load backends, data-intensive systems, end-to-end ownership
-- 📊 Production scale: ~75 RPS · 1.5M events/day · 300K+ MAU
-- 🔥 I build things that move metrics: conversion, retention, revenue
-
----
-
-## Key Experience
-
-### SpicyTalks — Telegram Platform
-
-> Backend ownership for a platform with **300K+ MAU**, processing **~1.5M events/day (~75 RPS)**
-
-- Designed monetization flows: subscriptions, paywalls, billing logic
-- Built analytics pipelines: activation, retention, conversion funnels
-- Managed growing production DB (~5.5 GB/month growth)
-
-**Results:** +12% conversion · ~65% drop-off reduction
-
----
-
-### Anime Factory — AI Video Generation (Personal Project)
-
-> End-to-end AI pipeline: idea → automated YouTube Shorts at scale
-
-- Built a 13-stage processing pipeline from scratch
-- ~1h → 3 ready Shorts (near real-time)
-- Scaled to **~60 videos/day** across 6 channels
-- 2,500+ videos generated · **5M+ views in 90 days** · ~10% videos exceeded 25K views
-
-**Stack:** Python · OpenCV · Whisper · FFmpeg · YouTube Data API · LLM orchestration
-
----
-
-### Smart Data — Enterprise Systems
-
-> Monolith → microservices migration in a large enterprise environment
-
-- Led extraction of the Incident Management service
-- Built an S3 document service
-- Integrated Kafka pipelines including 1C data ingestion
-
-**Stack:** Java · Kotlin · Spring Boot · PostgreSQL · Kafka · Redis · Docker · Kubernetes
-
----
-
 ## Tech Stack
 
 | Area | Technologies |
