@@ -17,6 +17,9 @@
   <a href="https://habr.com/ru/users/i_alakey/">
     <img src="https://img.shields.io/badge/Habr-65A3BE?style=for-the-badge&logo=habr&logoColor=white"/>
   </a>
+  <a href="https://medium.com/@alakov.ilia">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
   <a href="https://play.google.com/store/apps/dev?id=6926668029014446353">
     <img src="https://img.shields.io/badge/Google_Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white"/>
   </a>
