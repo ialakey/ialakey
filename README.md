@@ -29,18 +29,3 @@
 </p>
 
 ---
-
-## Tech Stack
-
-| Area | Technologies |
-|---|---|
-| **Backend** | Java 8–21, Spring Boot, Spring Cloud, Kotlin, Python |
-| **Databases** | PostgreSQL, Oracle, MySQL, Redis |
-| **Messaging** | Kafka, RabbitMQ |
-| **DevOps / Infra** | Docker, Kubernetes, AWS, Google Cloud |
-| **Observability** | Prometheus, Grafana |
-| **APIs** | REST, gRPC |
-| **Mobile** | Flutter, Dart |
-| **Other** | Unity, Git, GitLab CI |
-
----
