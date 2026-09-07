@@ -1,6 +1,5 @@
 <h1 align="center">Alakov Ilia</h1>
 
-<h3 align="center">Senior Backend Engineer</h3>
 <p align="center">Java · Kotlin · Python · System Design · Data Pipelines</p>
 
 <p align="center">
