@@ -12,3 +12,16 @@
 </div>
 
 ---
+
+## GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ialakey&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=ialakey&hide_border=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ialakey&layout=compact&hide_border=true&langs_count=8&theme=tokyonight)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ialakey&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8)
+
+</div>
