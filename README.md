@@ -88,25 +88,6 @@
 
 ---
 
-## 🚀 Selected work
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[caseforge](https://github.com/ialakey/caseforge)** | Open-source CS2 case-opening platform: Steam auth, provably fair openings, an RTP-balanced case builder, withdrawals bought on market.csgo.com and an admin CRM. | NestJS · Next.js · Prisma · TypeScript |
-| **[resume2human](https://github.com/ialakey/resume2human)** · [📝](https://habr.com/ru/articles/1077720) | Job hunting as a pipeline: scrape vacancies, find the decision-maker behind each one, reach them directly instead of shouting into an ATS. | Python · Playwright |
-| **[shorts-factory](https://github.com/ialakey/shorts-factory)** · [📝](https://habr.com/ru/articles/1078032/) | Long video → vertical Shorts. Multi-signal moment scoring instead of asking an LLM what's interesting, plus a virtual camera that reframes 9:16 like a human operator. | Python · ffmpeg · Whisper · OpenCV |
-| **[anime-dl-core](https://github.com/ialakey/anime-dl-core)** | Library that turns player embeds from eight hosts into direct HLS/DASH/MP4 links. One interface, a parser per provider. On PyPI. | Python |
-| **[srbguide](https://github.com/ialakey/srbguide)** | Visa-run calculator, white-card generator and a curated channel directory for expats in Serbia. Live on Google Play. | Flutter · Dart |
-| **[Drift Desert Race](https://store.steampowered.com/app/3155690/Drift_Desert_Race)** | An eight-hour non-stop drift across an endless desert. Released on Steam. | Unity · C# |
-| **[converter-libreoffice](https://github.com/ialakey/converter-libreoffice)** | DOCX → HTML → PDF through headless LibreOffice. The unglamorous kind of backend that just has to work. | Kotlin · Spring Boot |
-| **[keyboard-magic](https://github.com/ialakey/keyboard-magic)** | IntelliJ plugin that fixes text typed in the wrong keyboard layout with one shortcut. Built because it annoyed me daily. | Kotlin · JetBrains Platform |
-
-<div align="center">
-  <a href="https://ialakey.github.io/#projects"><b>→ everything else, on the portfolio</b></a>
-</div>
-
----
-
 ## 📊 GitHub stats
 
 <div align="center">
@@ -145,10 +126,3 @@
 
 </div>
 
----
-
-<div align="center">
-  <i>Looking for someone to own a backend end-to-end — architecture, delivery, and the 3 a.m. pages? That's the job I like.</i>
-  <br><br>
-  <a href="mailto:alakov.ilia@gmail.com"><b>alakov.ilia@gmail.com</b></a>
-</div>
