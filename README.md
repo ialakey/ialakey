@@ -38,56 +38,6 @@
 
 ---
 
-## 🛠 Stack
-
-**Languages**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original-wordmark.svg" width="46" height="46" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/kotlin/kotlin-original.svg" width="46" height="46" alt="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original-wordmark.svg" width="46" height="46" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" width="46" height="46" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/php/php-original.svg" width="46" height="46" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dart/dart-original.svg" width="46" height="46" alt="Dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/csharp/csharp-original.svg" width="46" height="46" alt="C#" />
-</p>
-
-**Backend & frameworks**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original-wordmark.svg" width="46" height="46" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/laravel/laravel-original-wordmark.svg" width="46" height="46" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/fastapi/fastapi-original-wordmark.svg" width="46" height="46" alt="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nestjs/nestjs-original-wordmark.svg" width="46" height="46" alt="NestJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nextjs/nextjs-original-wordmark.svg" width="46" height="46" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/flutter/flutter-original.svg" width="46" height="46" alt="Flutter" />
-</p>
-
-**Data**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original-wordmark.svg" width="46" height="46" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/oracle/oracle-original.svg" width="46" height="46" alt="Oracle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original-wordmark.svg" width="46" height="46" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/redis/redis-original-wordmark.svg" width="46" height="46" alt="Redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/apachekafka/apachekafka-original-wordmark.svg" width="46" height="46" alt="Kafka" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/prisma/prisma-original.svg" width="46" height="46" alt="Prisma" />
-</p>
-
-**Infra & ops**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original-wordmark.svg" width="46" height="46" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/kubernetes/kubernetes-plain-wordmark.svg" width="46" height="46" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="46" height="46" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/googlecloud/googlecloud-original-wordmark.svg" width="46" height="46" alt="GCP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/prometheus/prometheus-original-wordmark.svg" width="46" height="46" alt="Prometheus" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/grafana/grafana-original.svg" width="46" height="46" alt="Grafana" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/githubactions/githubactions-original.svg" width="46" height="46" alt="GitHub Actions" />
-</p>
-
----
-
 ## 📊 GitHub stats
 
 <div align="center">
