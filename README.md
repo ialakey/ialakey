@@ -13,12 +13,6 @@
   <img src="https://img.shields.io/badge/portfolio-ialakey.github.io-6f42c1?style=flat-square&labelColor=1f2430" alt="Portfolio" />
 </a>
 
-# Alakov Ilia
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=6F42C1&center=true&vCenter=true&width=620&lines=Senior+Backend+Engineer;Java+%C2%B7+Kotlin+%C2%B7+Python+%C2%B7+PostgreSQL+%C2%B7+Kafka;I+build+backends+that+stay+boring+under+load;From+idea+to+release%2C+end+to+end" alt="Senior Backend Engineer" />
-
-</div>
-
 ## 📫 Find me
 
 <div align="center">
