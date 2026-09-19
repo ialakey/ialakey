@@ -19,27 +19,6 @@
 
 </div>
 
----
-
-```yaml
-name:       Alakov Ilia
-role:       Senior Backend Engineer
-experience: 6+ years in production
-location:   Serbia  # remote-first, EU timezones
-current:   "Telegram SaaS — ~300K MAU, ~75 RPS, ~1.5M events/day"
-owns:      [ architecture, delivery, the 3 a.m. pages ]
-shipped:   [ Steam game, 2x Google Play apps, PyPI package ]
-open_to:    new opportunities
-```
-
-- 🧱 Six years of backend under real load: monolith → microservices, Kafka flows, SQL with 20+ joins that has to come back before the dashboard times out.
-- 🚚 **Eight public projects shipped in September 2026** — a CS2 platform, a Python library on PyPI, a Flutter app, a Shorts pipeline. That is not a typo, it is a method: I wrote it up on [Habr](https://habr.com/ru/users/i_alakey/).
-- 🧰 I like the unglamorous parts — migrations, retries, idempotency, the query that nobody wants to touch.
-- 🎮 Also guilty of shipping a racing game on Steam and a notes app that outlived its users.
-- 💬 Ask me about **Kafka, PostgreSQL tuning, Oracle → PostgreSQL migrations, or turning a side idea into a release in a week.**
-
----
-
 ## 📫 Find me
 
 <div align="center">
