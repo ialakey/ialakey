@@ -143,8 +143,6 @@
 
 <br><br>
 
-<img src="https://ghchart.rshah.org/6f42c1/ialakey" width="780" alt="Contribution chart of @ialakey" />
-
 </div>
 
 ---
