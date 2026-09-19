@@ -36,8 +36,6 @@
 
 </div>
 
----
-
 ## 📊 GitHub stats
 
 <div align="center">
@@ -48,31 +46,6 @@
     <img alt="Dashboard stats of @ialakey" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=56916175&image_size=auto&color_scheme=light" width="771" height="auto" />
   </picture>
 </a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ialakey&theme=github_dark" />
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ialakey&theme=default" alt="Commit stats of @ialakey" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ialakey&theme=github_dark" />
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ialakey&theme=default" alt="Repositories per language of @ialakey" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ialakey&theme=github_dark" />
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ialakey&theme=default" alt="Most committed languages of @ialakey" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ialakey&utcOffset=2&theme=github_dark" />
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ialakey&utcOffset=2&theme=default" alt="Productive time of @ialakey" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ialakey&hide_border=true&theme=tokyonight&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&background=0D1117" />
-  <img height="180" src="https://streak-stats.demolab.com?user=ialakey&hide_border=true&ring=6F42C1&fire=6F42C1&currStreakLabel=6F42C1" alt="Contribution streak of @ialakey" />
-</picture>
-
-<br><br>
 
 </div>
 
